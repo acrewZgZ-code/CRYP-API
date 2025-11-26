@@ -1,0 +1,22 @@
+{
+  "name": "Staffy",
+  "short_name": "Staffy",
+  "start_url": "/staffy-pwa/",
+  "scope": "/staffy-pwa/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "description": "Acceso rápido a Staffy con fichaje directo",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
